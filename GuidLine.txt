@@ -1,0 +1,4 @@
+Install otp_win64_25.3
+Install rabbitmq-server-3.11.10
+Implement using below URL...
+https://www.c-sharpcorner.com/article/asynchronous-communication-between-microservices-using-net-core-api-rabbitmq/
